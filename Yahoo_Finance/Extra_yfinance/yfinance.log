@@ -1,0 +1,89 @@
+2025-12-27 14:00:01,594-INFO-Stating the yfinance data extraction process
+2025-12-27 14:00:03,518-INFO-Data extraction completed successfully
+2025-12-27 14:00:03,518-INFO-Starting the data transformation process
+2025-12-27 14:00:03,520-INFO-Starting the data loading process
+2025-12-27 14:00:03,656-INFO-Data loading completed successfully
+2025-12-27 14:00:11,512-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 14:00:11,932-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 15:00:02,506-INFO-Stating the yfinance data extraction process
+2025-12-27 15:00:03,935-INFO-Data extraction completed successfully
+2025-12-27 15:00:03,936-INFO-Starting the data transformation process
+2025-12-27 15:00:03,938-INFO-Starting the data loading process
+2025-12-27 15:00:04,072-INFO-Data loading completed successfully
+2025-12-27 15:00:12,776-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 15:00:13,199-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 16:00:02,501-INFO-Stating the yfinance data extraction process
+2025-12-27 16:00:03,627-INFO-Data extraction completed successfully
+2025-12-27 16:00:03,627-INFO-Starting the data transformation process
+2025-12-27 16:00:03,629-INFO-Starting the data loading process
+2025-12-27 16:00:03,866-INFO-Data loading completed successfully
+2025-12-27 16:00:12,107-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 16:00:12,524-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 17:00:02,620-INFO-Stating the yfinance data extraction process
+2025-12-27 17:00:04,049-INFO-Data extraction completed successfully
+2025-12-27 17:00:04,049-INFO-Starting the data transformation process
+2025-12-27 17:00:04,051-INFO-Starting the data loading process
+2025-12-27 17:00:04,184-INFO-Data loading completed successfully
+2025-12-27 17:00:12,268-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 17:00:12,766-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 18:00:02,572-INFO-Stating the yfinance data extraction process
+2025-12-27 18:00:03,502-INFO-Data extraction completed successfully
+2025-12-27 18:00:03,502-INFO-Starting the data transformation process
+2025-12-27 18:00:03,504-INFO-Starting the data loading process
+2025-12-27 18:00:03,650-INFO-Data loading completed successfully
+2025-12-27 18:00:12,235-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 18:00:12,817-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 19:00:02,531-INFO-Stating the yfinance data extraction process
+2025-12-27 19:00:03,813-INFO-Data extraction completed successfully
+2025-12-27 19:00:03,813-INFO-Starting the data transformation process
+2025-12-27 19:00:03,816-INFO-Starting the data loading process
+2025-12-27 19:00:03,968-INFO-Data loading completed successfully
+2025-12-27 19:00:12,164-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 19:00:12,659-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 20:00:02,504-INFO-Stating the yfinance data extraction process
+2025-12-27 20:00:11,703-INFO-Data extraction completed successfully
+2025-12-27 20:00:11,703-INFO-Starting the data transformation process
+2025-12-27 20:00:11,706-INFO-Starting the data loading process
+2025-12-27 20:00:11,960-INFO-Data loading completed successfully
+2025-12-27 20:00:12,162-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 20:00:12,618-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 21:00:02,493-INFO-Stating the yfinance data extraction process
+2025-12-27 21:00:03,911-INFO-Data extraction completed successfully
+2025-12-27 21:00:03,911-INFO-Starting the data transformation process
+2025-12-27 21:00:03,913-INFO-Starting the data loading process
+2025-12-27 21:00:04,047-INFO-Data loading completed successfully
+2025-12-27 21:00:12,012-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 21:00:12,453-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 22:00:02,522-INFO-Stating the yfinance data extraction process
+2025-12-27 22:00:03,542-INFO-Data extraction completed successfully
+2025-12-27 22:00:03,542-INFO-Starting the data transformation process
+2025-12-27 22:00:03,544-INFO-Starting the data loading process
+2025-12-27 22:00:03,669-INFO-Data loading completed successfully
+2025-12-27 22:00:12,029-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 22:00:12,473-INFO-YFinance Chart Pipeline completed successfully
+2025-12-27 23:00:02,756-INFO-Stating the yfinance data extraction process
+2025-12-27 23:00:03,682-INFO-Data extraction completed successfully
+2025-12-27 23:00:03,683-INFO-Starting the data transformation process
+2025-12-27 23:00:03,685-INFO-Starting the data loading process
+2025-12-27 23:00:03,823-INFO-Data loading completed successfully
+2025-12-27 23:00:12,246-INFO-Starting the YFinance Chart Pipeline
+2025-12-27 23:00:12,853-INFO-YFinance Chart Pipeline completed successfully
+2025-12-28 00:00:02,529-INFO-Stating the yfinance data extraction process
+2025-12-28 00:00:03,595-INFO-Data extraction completed successfully
+2025-12-28 00:00:03,595-INFO-Starting the data transformation process
+2025-12-28 00:00:03,598-INFO-Starting the data loading process
+2025-12-28 00:00:03,723-INFO-Data loading completed successfully
+2025-12-28 00:00:12,053-INFO-Starting the YFinance Chart Pipeline
+2025-12-28 00:00:12,504-INFO-YFinance Chart Pipeline completed successfully
+2025-12-28 01:00:02,542-INFO-Stating the yfinance data extraction process
+2025-12-28 01:00:03,584-INFO-Data extraction completed successfully
+2025-12-28 01:00:03,585-INFO-Starting the data transformation process
+2025-12-28 01:00:03,587-INFO-Starting the data loading process
+2025-12-28 01:00:03,715-INFO-Data loading completed successfully
+2025-12-28 01:00:12,072-INFO-Starting the YFinance Chart Pipeline
+2025-12-28 01:00:12,523-INFO-YFinance Chart Pipeline completed successfully
+2025-12-28 02:00:02,562-INFO-Stating the yfinance data extraction process
+2025-12-28 02:00:04,509-INFO-Data extraction completed successfully
+2025-12-28 02:00:04,510-INFO-Starting the data transformation process
+2025-12-28 02:00:04,513-INFO-Starting the data loading process
+2025-12-28 02:00:04,644-INFO-Data loading completed successfully

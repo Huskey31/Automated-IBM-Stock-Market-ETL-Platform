@@ -1,0 +1,16 @@
+Project: Extract IBM stock from yahoo finance and clean columns and transform date(index) then load to mini data warehouse (PostgreSQL).I Had this process automated. Next I Created code that will pull IBM stock from mini data warehouse then create a scatter plot with updated data this process is also automated but through different script. there is a ten second delay between scripts acting as a buffer. The graph is then saved to separate folder that saves all previous graphs. This process needs to be successful for 12 hours and needs to run every hour    
+
+   test to start at 2pm and set to automate every hour for 12 hours 
+1. 1st test was a success, scatter plot with date stamps successfully outputted, next automation at 3pm 
+2. 2nd test was a success, scatter plot with date stamps successfully outputted, next automation at 4pm
+3. 3rd test was a success, scatter plot with date stamps successfully outputted, next automation at 5pm,(changed date from extraction point from 2025/12/20 to 2024/12/20)
+4. 4th test was a success, scatter plot with date stamps successfully outputted, next automation at 6pm,(changed date from extraction point from 2024/12/20 to 2025/01/01)
+5. 5th test was a success, scatter plot with date stamps successfully outputted, next automation at 7pm,(changed date from extraction point from 2025/01/01 to 2023/01/01)
+6. 6th test was a success, scatter plot with date stamps successfully outputted, next automation at 8pm,(changed date from extraction point from 2023/01/01 to 2025/06/01)
+7. 7th test was a success, scatter plot with date stamps successfully outputted, next automation at 9pm,(changed date from extraction point from 2025/06/01 to 2025/08/01)
+8. 8th test was a success, scatter plot with date stamps successfully outputted, next automation at 10pm,(changed date from extraction point from 2025/08/01 to 2025/09/01)
+9. 9th test was a success, scatter plot with date stamps successfully outputted, next automation at 11pm,
+10.10th test was a success, scatter plot with date stamps successfully outputted, next automation at 12pm,
+11.11th test was a success, scatter plot with date stamps successfully outputted, next automation at 01am,(changed date from extraction point from 2025/09/01 to 2025/10/01)
+12.12th test was a success, scatter plot with date stamps successfully outputted, final automation at 02am,(changed date from extraction point from 2025/10/01 to 2025/11/01)
+13> final test was a success, scatter plot with data stamps successfully outputted.
