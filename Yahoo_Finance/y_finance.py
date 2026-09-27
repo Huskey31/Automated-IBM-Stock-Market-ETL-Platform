@@ -4,7 +4,7 @@ import logging
 import sqlalchemy
 
 logging.basicConfig(
-    filename= r"C:\Users\khany\OneDrive\Desktop\Stuff\Richfield studies\DE_projects\PipeLines\Yahoo_Finance\yfinance.log",
+    filename= r"yfinance.log",
     level = logging.INFO,
     format = '%(asctime)s-%(levelname)s-%(message)s',
     filemode = 'a'
